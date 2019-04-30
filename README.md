@@ -31,7 +31,7 @@ Download the pre-configured VM image (for VMware Player or VirtualBox).
  
 # HOW TO RUN....?
 
-  --> install library which is most required
+  --> install library which is most required</br>
   --> cmd run the <strong>python Photo.py</br></strong>
   --> run train file command with <strong>python train.py</br></strong>
   --> detect file for recognition <strong>python detect.py</br></strong>
