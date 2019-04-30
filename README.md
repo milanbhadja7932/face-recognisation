@@ -23,3 +23,8 @@ While Windows isn't officially supported, helpful users have posted instructions
 @masoudr's Windows 10 installation guide (dlib + face_recognition)
 Installing a pre-configured Virtual Machine image
 Download the pre-configured VM image (for VMware Player or VirtualBox).
+
+# OUTPUT
+
+
+![Alt Text](https://github.com/milanbhadja7932/face-recognisation/blob/master/gif%20for%20face%20recognition.gif)
