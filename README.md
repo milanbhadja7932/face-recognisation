@@ -24,6 +24,18 @@ While Windows isn't officially supported, helpful users have posted instructions
 Installing a pre-configured Virtual Machine image
 Download the pre-configured VM image (for VMware Player or VirtualBox).
 
+# HOW DOES IT WORK  !!..
+   -->first of all yo have to upload images in folder or strat web camera and capture photos and store in folder
+   -->After upload images you have to train the model for recognition
+   -->trainig completed you have to run detect file Output is you detect faces which are in training
+ 
+# HOW TO RUN....?
+
+  --> install library which is most required
+  --> cmd run the <strong>python Photo.py</br></strong>
+  --> run train file command with <strong>python train.py</br></strong>
+  --> detect file for recognition <strong>python detect.py</br></strong>
+
 # OUTPUT
 
 
