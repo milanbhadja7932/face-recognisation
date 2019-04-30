@@ -2,7 +2,7 @@
 # Installation
 <strong>Requirements</strong>
 Python 3.3+ or Python 2.7
-macOS or Linux (Windows not officially supported, but might work)
+macOS or Linux (Windows not officially supported, but might work)</br>
 <strong>Installation Options:</strong>
 Installing on Mac or Linux
 First, make sure you have dlib already installed with Python bindings:
